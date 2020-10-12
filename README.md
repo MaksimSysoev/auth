@@ -1,4 +1,4 @@
-##REST сервис. CRUD опрерации.
+## REST сервис. CRUD опрерации.
 application.properties хранит настройки подключения к базе fullstack_auth.
 В б.д. fullstack_auth создаю таблицу
 
