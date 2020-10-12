@@ -1,6 +1,7 @@
 ## REST сервис. CRUD опрерации.
-application.properties хранит настройки подключения к базе fullstack_auth.
-В б.д. fullstack_auth создаю таблицу
+**application.properties** хранит настройки подключения к базе fullstack_auth.
+
+В б.д. fullstack_auth создаю таблицу **person**
 
 create table person (\
     id serial primary key not null,\
